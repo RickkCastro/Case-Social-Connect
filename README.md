@@ -5,7 +5,7 @@ Esse projeto foi desenvolvido para a disciplina de Web Development na Universida
 A "Social Connect" é uma rede social onde os usuários podem compartilhar atualizações e interagir entre si por meio de publicações ou mensagens privadas.
  
  
-## Stack🛠
+## Stacks🛠
  
 HTML, CSS, Git e GitHub
 
